@@ -11,7 +11,7 @@
         android:id="@+id/frameStackcar"
         android:layout_height="@dimen/_87pxv"
         android:layout_width="match_parent"
-        android:layout_marginTop="@dimen/_20pxh">
+        android:layout_marginTop="@dimen/_30pxh">
 
         <View
             android:id="@+id/__link_drug_interaction_empty__pillpal_logo"
@@ -398,6 +398,5 @@
                 android:scaleType="fitXY"
                 android:src="@drawable/img_bbcapcule_white_a700" />
         </LinearLayout>
-
     </FrameLayout>
 </LinearLayout>
